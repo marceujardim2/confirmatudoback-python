@@ -2,3 +2,5 @@ Flask==2.3.3
 python-dotenv==1.0.0
 playwright==1.40.0
 gunicorn==20.1.0
+greenlet==2.0.2
+
